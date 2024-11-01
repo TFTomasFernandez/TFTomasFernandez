@@ -1,4 +1,4 @@
-<h2 align="left">Hola👋! Mi nombre es Tomas Fernandez, soy de Argentina y me apaciona Machine Learning</h2>
+<h2 align="left">Hola👋! Mi nombre es Tomas Fernandez, soy de Argentina y me apaciona Machine Learning</h2> 
 
 ###
 
@@ -63,4 +63,6 @@
   </a>
   
 </div> 
-<img src="./Goku.gif" width="400" alt="GIF de Programación">
+<p align="right">
+<img src="./Goku.gif" width="200" alt="GIF de Programación">
+</p>
