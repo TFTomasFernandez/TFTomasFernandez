@@ -44,7 +44,7 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TFTomasFernandez&show_icons=true&locale=en&layout=compact" alt="TFTomasFernandez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TFTomasFernandez&show_icons=true&locale=en" alt="TFTomasFernandez" /></p>
-<img align="right" height="215" src="https://camo.githubusercontent.com/260c4998fdaa7720395757125b203173e564ec986873e84ce643b68cb8af712a/68747470733a2f2f6265636f64652e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031372f30352f436f6d65c3a761722d636f6d2d4a6176612e676966"  />
+<img align="right" height="215" 
 <p align="left">Donde me pueden contactar:</p> 
 
 ###
@@ -61,4 +61,6 @@
   <a href="https://www.linkedin.com/in/tomas-fernandez-7a7957257/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk2cXc0M2d1aTR4Y3V5emttbTZmZWl2emQzbmd0bDdmNWh3aDJ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.webp" width="600"/>
+
 </div> 
