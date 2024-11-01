@@ -61,6 +61,6 @@
   <a href="https://www.linkedin.com/in/tomas-fernandez-7a7957257/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk2cXc0M2d1aTR4Y3V5emttbTZmZWl2emQzbmd0bDdmNWh3aDJ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.webp" width="600"/>
-
+  
 </div> 
+<img src="./Goku.gif" width="400" alt="GIF de Programación">
